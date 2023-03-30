@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c8d6c6-63be-4ce7-bec6-f1b07660a3bc" name="Changes" comment="" />
+    <list default="true" id="96c8d6c6-63be-4ce7-bec6-f1b07660a3bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MainJob$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainJob$1CustomComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_sample/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_sample/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_sample/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_sample/part-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/MainJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainJob.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MainJob.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/MainJob.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +37,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/juanrombetasik/repo/Tugas_2_TBD",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680154514168</updated>
       <workItem from="1680154515647" duration="131000" />
-      <workItem from="1680154718280" duration="3130000" />
+      <workItem from="1680154718280" duration="4024000" />
     </task>
     <servers />
   </component>
