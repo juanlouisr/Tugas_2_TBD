@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c8d6c6-63be-4ce7-bec6-f1b07660a3bc" name="Changes" comment="">
+    <list default="true" id="96c8d6c6-63be-4ce7-bec6-f1b07660a3bc" name="Changes" comment="update">
       <change afterPath="$PROJECT_DIR$/MainJob$1.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MainJob$1CustomComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output_sample/._SUCCESS.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output_sample/.part-00000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output_sample/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output_sample/part-00000" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/MainJob.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainJob.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MainJob.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/MainJob.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +43,41 @@
       <option name="presentableId" value="Default" />
       <updated>1680154514168</updated>
       <workItem from="1680154515647" duration="131000" />
-      <workItem from="1680154718280" duration="4024000" />
+      <workItem from="1680154718280" duration="4052000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1680160293839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680160293839</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1680160299311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680160299311</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
