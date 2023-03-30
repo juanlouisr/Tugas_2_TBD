@@ -1,0 +1,10 @@
+spark-submit --master local[4] --class MainJob MainJob.jar hdfs:///input_test/raw_json_test/*.json hdfs:///output_test3
+
+hdfs dfs -get /output_test3 ./output_test
+hdfs dfs -rm -r /output_test3
+hdfs dfs -get /output_test_real ./
+
+Compile Java to JAR: 
+
+javac MainJob.java -cp ./jars/*
+jar -cf MainJob.jar *.class

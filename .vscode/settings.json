@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/chrslex/spark/spark-3.3.2-bin-hadoop3/jars/scala-library-2.12.15.jar",
+        "/home/chrslex/spark/spark-3.3.2-bin-hadoop3/jars/spark-core_2.12-3.3.2.jar",
+        "/home/chrslex/spark/spark-3.3.2-bin-hadoop3/jars/jackson-core-2.13.4.jar",
+        "/home/chrslex/spark/spark-3.3.2-bin-hadoop3/jars/jackson-annotations-2.13.4.jar",
+        "/home/chrslex/spark/spark-3.3.2-bin-hadoop3/jars/jackson-databind-2.13.4.2.jar",
+        "/home/chrslex/spark/spark-3.3.2-bin-hadoop3/jars/commons-lang3-3.12.0.jar",
+        "/home/chrslex/spark/spark-3.3.2-bin-hadoop3/jars/hadoop-client-api-3.3.2.jar"
+    ]
+}
