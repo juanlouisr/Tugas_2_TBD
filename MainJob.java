@@ -105,6 +105,9 @@ public class MainJob {
                 continue;
               }
               String soc_med = getType(j);
+              if (soc_med == null) {
+                continue;
+              }
               Integer count = 1;
               a.add(new Tuple2<>(new Tuple2<>(date, soc_med), count));
             }
